@@ -1,0 +1,3 @@
+Regex for 3 or more consecutive vowels:
+
+/[aeiou]{3,}/gi;
